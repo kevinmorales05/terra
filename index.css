@@ -1,0 +1,18 @@
+.section1 {
+    height: 200px;
+    background-color: #3d441D;
+}
+.section2 {
+    height: 400px;
+    background-image: url("./images/terra-vertical.png") no-repeat;
+
+
+}
+.section3 {
+    height:200px;
+    background-color: #3d441D;
+}
+.bienvenida {
+    padding-top: 20px;
+}
+
